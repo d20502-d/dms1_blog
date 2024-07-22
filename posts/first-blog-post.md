@@ -7,25 +7,28 @@ allow_math: true
 ---
 
 # Scavenger Hunt
-^The disembodied hands of a great ape.
+
 ![1](240722/1.jpg)
-
+^The disembodied hands of a great ape.
 ^ images are written like this: `![description](file_path/file_name.png)`
-
-^ A wide machine, dispensing beverages from a far away land.
 ![2](240722/2.jpg)
-^ A study space fit for a Sith Lord.
+^ A wide machine, dispensing beverages from a far away land.
+
 ![3](240722/3.jpg)
-^ A door for the condemned.
+^ A study space fit for a Sith Lord.
+
 ![4](240722/4.jpg)
-^ A curtain of roots, delivered by a winged visitor.
+^ A door for the condemned.
+
 ![5](240722/5.jpg)
-^ A wide net strung above, bulging under the weight of its flying paper cargo.
+^ A curtain of roots, delivered by a winged visitor.
+
 ![6](240722/6.jpg)
-^ A basement-dwelling Black Box, bigger than you might think
+^ A wide net strung above, bulging under the weight of its flying paper cargo.
+
 ![7](240722/7.jpg)
 ![8](240722/8.jpg)
-
+^ A basement-dwelling Black Box, bigger than you might think
 ## This is h2
 
 *This is italic.*[^1]
