@@ -8,7 +8,7 @@ allow_math: true
 
 # Scavenger Hunt
 
-![1](240722/1.heic)
+![1](240722/1.jpg)
 
 ^ images are written like this: `![description](file_path/file_name.png)`
 
