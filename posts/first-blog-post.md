@@ -1,5 +1,5 @@
 ---
-title: #1 dms blog
+title: dms blog
 published_at: 2024-07-22
 snippet: An example of a blog post.
 disable_html_sanitization: true
