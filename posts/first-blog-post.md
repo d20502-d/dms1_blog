@@ -1,14 +1,14 @@
 ---
 title: dms blog
 published_at: 2024-07-22
-snippet: An example of a blog post.
+snippet: Scavenger hunt post
 disable_html_sanitization: true
 allow_math: true
 ---
 
-# This is h1
+# Scavenger Hunt
 
-![a drippy lemon](logo.svg)
+![sh](1.heic)
 
 ^ images are written like this: `![description](file_path/file_name.png)`
 
