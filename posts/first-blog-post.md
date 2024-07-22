@@ -11,6 +11,13 @@ allow_math: true
 ![1](240722/1.jpg)
 
 ^ images are written like this: `![description](file_path/file_name.png)`
+![2](240722/2.jpg)
+![3](240722/3.jpg)
+![4](240722/4.jpg)
+![5](240722/5.jpg)
+![6](240722/6.jpg)
+![7](240722/7.jpg)
+![8](240722/8.jpg)
 
 ## This is h2
 
