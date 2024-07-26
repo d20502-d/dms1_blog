@@ -13,11 +13,6 @@ allow_math: true
 
 <iframe width="996" height="560" src="https://www.youtube.com/embed/uUAHgGL9JZ4" title="240725 30 sec footage" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-1.I am 170cm tall.
-
-2.I like purple.
-
-3.I wake up at 10 am.
 
 ## This is h2
 
