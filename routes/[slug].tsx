@@ -42,7 +42,7 @@ export default function PostPage(props: PageProps<Post>) {
 
 
     <div
-      class="mt-8 markdown-body"
+      class="mt-8{margin-top: 0rem;} markdown-body"
       dangerouslySetInnerHTML={{ __html: render(post.content, {
         disableHtmlSanitization: post.disableHtmlSanitization,
         allowMath: post.allowMath,
