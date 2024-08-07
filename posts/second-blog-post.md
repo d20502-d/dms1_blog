@@ -11,18 +11,13 @@ Week 1 Session 2
 <a href="https://d20502-d-dms1-blog-38.deno.dev/third-blog-post" class="button">Next Blog ▶︎</a>
 
 # first 30 seconds footage
+<iframe width="731" height="411" src="https://www.youtube.com/embed/uUAHgGL9JZ4" title="240725 30 sec footage" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-30 sec footage:
-
-<iframe width="996" height="560" src="https://www.youtube.com/embed/uUAHgGL9JZ4" title="240725 30 sec footage" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+# experiment
 
 editing experiment:
 <iframe width="731" height="411" src="https://www.youtube.com/embed/J1nGRCmHRdM" title="DMS1: video experiment" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-3. Continue to practice the basic editing techniques from class with a 30 second editing experiment.
-
-4. Create a YouTube or Vimeo account using your student email, and post a link to this experiment to your blog, along with some brief reflections on that process, including what you were aiming for, and how successful you feel you were.
-
-5. Continue to shoot footage for your project, ready for use in class next week. 
+I cannot create a youtube account with the school email so I use another account to create the yt acc. Through this experiment, I tried to use transition between two different scenes and also I learned how to readjust the size of the video. So far, I think i'm a bit slow cuz i'm spending some time figuring out how do i adjust the size of differnt sequence and i think there's still a lot of things that i haven't tried/ discovered yet.
 
 </font>
