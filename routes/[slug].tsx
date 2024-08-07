@@ -31,6 +31,8 @@ export default function PostPage(props: PageProps<Post>) {
             day: "numeric",
           })}
         </time>
+        <a href="https://d20502-d-dms1-blog-38.deno.dev/first-blog-post">first</a>
+        <a href="https://d20502-d-dms1-blog-38.deno.dev/second-blog-post">second</a>
         <div
           class="mt-8 markdown-body"
           dangerouslySetInnerHTML={{ __html: render(post.content, {
@@ -38,8 +40,8 @@ export default function PostPage(props: PageProps<Post>) {
             allowMath: post.allowMath,
           }) }}
         />
-        <a href="https://d20502-d-dms1-blog-38.deno.dev/first-blog-post">index</a>
-        <a href="https://d20502-d-dms1-blog-38.deno.dev/second-blog-post">index</a>
+        <a href="https://d20502-d-dms1-blog-38.deno.dev/first-blog-post">first</a>
+        <a href="https://d20502-d-dms1-blog-38.deno.dev/second-blog-post">second</a>
       </main>
     </>
   );
