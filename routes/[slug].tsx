@@ -50,11 +50,14 @@ export default function PostPage(props: PageProps<Post>) {
     />
 
   <br>          |
-    <a href="https://d20502-d-dms1-blog-38.deno.dev/first-blog-post">  001</a>  |
-    <a href="https://d20502-d-dms1-blog-38.deno.dev/second-blog-post">  002</a>  |
-    <a href="https://d20502-d-dms1-blog-38.deno.dev/third-blog-post"> 003</a>  |
-    <a href="https://d20502-d-dms1-blog-38.deno.dev/fourth-blog-post"> 004</a>  |
-    <a href="https://d20502-d-dms1-blog-38.deno.dev/fifth-blog-post"> 005</a>  |</br>
+  <h2>
+  <a class="text-gray-300">&nbsp;|&nbsp;</a> 
+    <a href="https://d20502-d-dms1-blog-38.deno.dev/first-blog-post" class="text-gray-600">001</a><a class="text-gray-300">&nbsp;|&nbsp;</a>  
+    <a href="https://d20502-d-dms1-blog-38.deno.dev/second-blog-post" class="text-gray-600">002</a><a class="text-gray-300">&nbsp;|&nbsp;</a> 
+    <a href="https://d20502-d-dms1-blog-38.deno.dev/third-blog-post" class="text-gray-600">003</a><a class="text-gray-300">&nbsp;|&nbsp;</a> 
+    <a href="https://d20502-d-dms1-blog-38.deno.dev/fourth-blog-post" class="text-gray-600">004</a><a class="text-gray-300">&nbsp;|&nbsp;</a> 
+    <a href="https://d20502-d-dms1-blog-38.deno.dev/fifth-blog-post" class="text-gray-600">005</a><a class="text-gray-300">&nbsp;|&nbsp;</a> 
+  </h2>
 <br></br>
   </main>
   </font> 
