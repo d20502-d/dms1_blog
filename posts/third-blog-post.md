@@ -8,8 +8,9 @@ allow_math: true
 #02-01
 # Storyboard
 
-![1](240725)
-^30 sec footage
+!(240728/sbic.pdf)
+
+^storyboard practice in class
 
 
 1. Using the template provided on Canvas, or one of your own making, produce a storyboard or storyboards for your Assignment 1 project.
