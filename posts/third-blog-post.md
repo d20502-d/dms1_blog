@@ -8,7 +8,7 @@ allow_math: true
 #02-01
 # Storyboard
 
-!(240728/sbic.pdf)
+![](240728/sbic.pdf)
 
 ^storyboard practice in class
 
