@@ -18,6 +18,14 @@ export default function PostPage(props: PageProps<Post>) {
   const post = props.data;
   return (
     <>
+          <h2>
+          |
+        <a href="https://d20502-d-dms1-blog-38.deno.dev/first-blog-post">  001</a>  |
+        <a href="https://d20502-d-dms1-blog-38.deno.dev/second-blog-post"> 002</a>  |
+        <a href="https://d20502-d-dms1-blog-38.deno.dev/third-blog-post"> 003</a>  |
+        <a href="https://d20502-d-dms1-blog-38.deno.dev/fourth-blog-post"> 004</a>  |
+        <a href="https://d20502-d-dms1-blog-38.deno.dev/fifth-blog-post"> 005</a>  |
+      </h2>
       <Head>
         <style dangerouslySetInnerHTML={{ __html: CSS }} />
         <style dangerouslySetInnerHTML={{ __html: KATEX_CSS }} />
@@ -32,14 +40,7 @@ export default function PostPage(props: PageProps<Post>) {
           })}
         </time>
 
-      <h2>
-          |
-        <a href="https://d20502-d-dms1-blog-38.deno.dev/first-blog-post">  001</a>  |
-        <a href="https://d20502-d-dms1-blog-38.deno.dev/second-blog-post"> 002</a>  |
-        <a href="https://d20502-d-dms1-blog-38.deno.dev/third-blog-post"> 003</a>  |
-        <a href="https://d20502-d-dms1-blog-38.deno.dev/fourth-blog-post"> 004</a>  |
-        <a href="https://d20502-d-dms1-blog-38.deno.dev/fifth-blog-post"> 005</a>  |
-      </h2>
+
 
         <div
           class="mt-8 markdown-body"
