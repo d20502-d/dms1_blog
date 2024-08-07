@@ -5,7 +5,11 @@ snippet: sound
 disable_html_sanitization: true
 allow_math: true
 ---
-#02-02
+<font face="Times New Roman">
+Week 2 Session 2
+<a href="https://d20502-d-dms1-blog-38.deno.dev/third-blog-post" class="button" style="margin-left:23em">◀︎ Previous Blog</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://d20502-d-dms1-blog-38.deno.dev/fifth-blog-post" class="button">Next Blog ▶︎</a>
+
 # Sound
 
 1. Watch chapter 6 of the Premiere Pro 2022 - 2024 Essential TrainingLinks to an external site. videos. Follow along using audio clips that you have sourced for your own project.
@@ -21,4 +25,4 @@ allow_math: true
   - What sort of rhythm, tempo, or pace are you attempting to establish during this moment? How will your editing produce this?
 
 5. Post your written analysis to your blog, and post an updated version of your storyboard that accounts for the sonic elements of your project.
-
+</font>
