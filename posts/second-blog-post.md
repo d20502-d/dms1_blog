@@ -1,5 +1,5 @@
 ---
-title: dms blog
+title: DMS Blog 2
 published_at: 2024-07-23
 snippet: 30 sec footage
 disable_html_sanitization: true

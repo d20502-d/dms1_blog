@@ -1,5 +1,5 @@
 ---
-title: dms blog
+title: DMS Blog 1
 published_at: 2024-07-22
 snippet: Scavenger hunt post
 disable_html_sanitization: true
