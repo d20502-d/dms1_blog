@@ -24,11 +24,11 @@ export default function PostPage(props: PageProps<Post>) {
       </Head>
       <h2>
       <a class="text-gray-300">&nbsp;|&nbsp;</a> 
-        <a href="https://d20502-d-dms1-blog-38.deno.dev/first-blog-post" class="text-gray-500">001</a><a class="text-gray-300">&nbsp;|&nbsp;</a>  
-        <a href="https://d20502-d-dms1-blog-38.deno.dev/second-blog-post" class="text-gray-500">002</a><a class="text-gray-300">&nbsp;|&nbsp;</a> 
-        <a href="https://d20502-d-dms1-blog-38.deno.dev/third-blog-post" class="text-gray-500">003</a><a class="text-gray-300">&nbsp;|&nbsp;</a> 
-        <a href="https://d20502-d-dms1-blog-38.deno.dev/fourth-blog-post" class="text-gray-500">004</a><a class="text-gray-300">&nbsp;|&nbsp;</a> 
-        <a href="https://d20502-d-dms1-blog-38.deno.dev/fifth-blog-post" class="text-gray-500">005</a><a class="text-gray-300">&nbsp;|&nbsp;</a> 
+        <a href="https://d20502-d-dms1-blog-38.deno.dev/first-blog-post" class="text-gray-600">001</a><a class="text-gray-300">&nbsp;|&nbsp;</a>  
+        <a href="https://d20502-d-dms1-blog-38.deno.dev/second-blog-post" class="text-gray-700">002</a><a class="text-gray-300">&nbsp;|&nbsp;</a> 
+        <a href="https://d20502-d-dms1-blog-38.deno.dev/third-blog-post" class="text-gray-600">003</a><a class="text-gray-300">&nbsp;|&nbsp;</a> 
+        <a href="https://d20502-d-dms1-blog-38.deno.dev/fourth-blog-post" class="text-gray-600">004</a><a class="text-gray-300">&nbsp;|&nbsp;</a> 
+        <a href="https://d20502-d-dms1-blog-38.deno.dev/fifth-blog-post" class="text-gray-600">005</a><a class="text-gray-300">&nbsp;|&nbsp;</a> 
       </h2>
       <main class="max-w-screen-md px-4 pt-16{padding-top: 2rem;} mx-auto">
         <h1 class="text-5xl font-bold">{post.title}</h1>
