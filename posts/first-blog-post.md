@@ -8,6 +8,16 @@ allow_math: true
 <font face="Times New Roman">
 Week 1 Session 1
 
+<a href="https://google.com" class="button">Go to Google</a>
+a.button {
+    padding: 1px 6px;
+    border: 1px outset buttonborder;
+    border-radius: 3px;
+    color: buttontext;
+    background-color: buttonface;
+    text-decoration: none;
+}
+
 # Scavenger Hunt
 
 ![1](240722/1.jpg)
