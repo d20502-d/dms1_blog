@@ -48,9 +48,7 @@ export default function PostPage(props: PageProps<Post>) {
         allowMath: post.allowMath,
       }) }}
     />
-
-  <br>          |
-  <h2>
+<h2>
   <a class="text-gray-300">&nbsp;|&nbsp;</a> 
     <a href="https://d20502-d-dms1-blog-38.deno.dev/first-blog-post" class="text-gray-600">001</a><a class="text-gray-300">&nbsp;|&nbsp;</a>  
     <a href="https://d20502-d-dms1-blog-38.deno.dev/second-blog-post" class="text-gray-600">002</a><a class="text-gray-300">&nbsp;|&nbsp;</a> 
@@ -58,7 +56,6 @@ export default function PostPage(props: PageProps<Post>) {
     <a href="https://d20502-d-dms1-blog-38.deno.dev/fourth-blog-post" class="text-gray-600">004</a><a class="text-gray-300">&nbsp;|&nbsp;</a> 
     <a href="https://d20502-d-dms1-blog-38.deno.dev/fifth-blog-post" class="text-gray-600">005</a><a class="text-gray-300">&nbsp;|&nbsp;</a> 
   </h2>
-<br></br>
   </main>
   </font> 
     </>
