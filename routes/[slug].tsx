@@ -32,10 +32,12 @@ export default function PostPage(props: PageProps<Post>) {
           })}
         </time>
 
-
+      <toolbar><
           |
         <a href="https://d20502-d-dms1-blog-38.deno.dev/first-blog-post">  first</a>  |  
-        <a href="https://d20502-d-dms1-blog-38.deno.dev/second-blog-post">. second</a>  |  
+        <a href="https://d20502-d-dms1-blog-38.deno.dev/second-blog-post"> second</a>  |  
+      </toolbar>
+
         <div
           class="mt-8 markdown-body"
           dangerouslySetInnerHTML={{ __html: render(post.content, {
