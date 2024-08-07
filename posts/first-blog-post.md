@@ -5,7 +5,7 @@ snippet: Scavenger hunt post
 disable_html_sanitization: true
 allow_math: true
 ---
-<fontface="Times_New_Roman">
+<font face="Times New Roman">
 Week 1 Session 1
 # Scavenger Hunt
 
@@ -38,6 +38,5 @@ Week 1 Session 1
 
 ![8](240722/8.jpg)
 ^ A basement-dwelling Black Box, bigger than you might think
-
-</fontface>
+</font> 
 
