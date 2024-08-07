@@ -13,5 +13,7 @@ Week 3 Session 2
 # final cut
 
 
-
+<br></br>
+<a href="https://d20502-d-dms1-blog-38.deno.dev/fifth-blog-post" class="button" style="margin-left:23em">◀︎ Previous Blog</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://d20502-d-dms1-blog-38.deno.dev/seventh-blog-post" class="button">Next Blog ▶︎</a>
 </font>
