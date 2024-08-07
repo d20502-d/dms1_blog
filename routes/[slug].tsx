@@ -23,7 +23,7 @@ export default function PostPage(props: PageProps<Post>) {
         <style dangerouslySetInnerHTML={{ __html: KATEX_CSS }} />
       </Head>
       <h2>
-         <p> |</p>
+        &nbsp |
         <a href="https://d20502-d-dms1-blog-38.deno.dev/first-blog-post">  001</a>  |
         <a href="https://d20502-d-dms1-blog-38.deno.dev/second-blog-post"> 002</a>  |
         <a href="https://d20502-d-dms1-blog-38.deno.dev/third-blog-post"> 003</a>  |
