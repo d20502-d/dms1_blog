@@ -5,8 +5,7 @@ snippet: t1 draft
 disable_html_sanitization: true
 allow_math: true
 ---
-w3s1
-
+#03-01
 # draft of task 1
 
 1. Based on your storyboard, produce a draft of your video portrait for Assignment 1. It doesn't have to be the finished version, but it should be pretty close.

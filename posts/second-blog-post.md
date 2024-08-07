@@ -5,8 +5,7 @@ snippet: 30 sec footage
 disable_html_sanitization: true
 allow_math: true
 ---
-w1s2
-
+#01-02
 # first 30 seconds footage
 
 30 sec footage:

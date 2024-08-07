@@ -5,8 +5,7 @@ snippet: sound
 disable_html_sanitization: true
 allow_math: true
 ---
-w2s2
-
+#02-02
 # Sound
 
 1. Watch chapter 6 of the Premiere Pro 2022 - 2024 Essential TrainingLinks to an external site. videos. Follow along using audio clips that you have sourced for your own project.

@@ -5,8 +5,7 @@ snippet: storyboard
 disable_html_sanitization: true
 allow_math: true
 ---
-w2s1
-
+#02-01
 # Storyboard
 
 ![1](240725)
