@@ -39,6 +39,7 @@ export default function PostPage(props: PageProps<Post>) {
           }) }}
         />
         <a href="https://d20502-d-dms1-blog-38.deno.dev/first-blog-post"></a>
+        <a href="https://d20502-d-dms1-blog-38.deno.dev/second-blog-post"></a>
       </main>
     </>
   );
