@@ -34,11 +34,11 @@ export default function PostPage(props: PageProps<Post>) {
 
       <h2>
           |
-        <a href="https://d20502-d-dms1-blog-38.deno.dev/first-blog-post">  First</a>  |
-        <a href="https://d20502-d-dms1-blog-38.deno.dev/second-blog-post"> Second</a>  |
-        <a href="https://d20502-d-dms1-blog-38.deno.dev/third-blog-post"> Third</a>  |
-        <a href="https://d20502-d-dms1-blog-38.deno.dev/fourth-blog-post"> Fourth</a>  |
-        <a href="https://d20502-d-dms1-blog-38.deno.dev/fifth-blog-post"> Fifth</a>  |
+        <a href="https://d20502-d-dms1-blog-38.deno.dev/first-blog-post">  001</a>  |
+        <a href="https://d20502-d-dms1-blog-38.deno.dev/second-blog-post"> 002</a>  |
+        <a href="https://d20502-d-dms1-blog-38.deno.dev/third-blog-post"> 003</a>  |
+        <a href="https://d20502-d-dms1-blog-38.deno.dev/fourth-blog-post"> 004</a>  |
+        <a href="https://d20502-d-dms1-blog-38.deno.dev/fifth-blog-post"> 005</a>  |
       </h2>
 
         <div
@@ -50,17 +50,12 @@ export default function PostPage(props: PageProps<Post>) {
         />
 
       <br>          |
-        <a href="https://d20502-d-dms1-blog-38.deno.dev/first-blog-post">  First</a>  |
-        <a href="https://d20502-d-dms1-blog-38.deno.dev/second-blog-post">  Second</a>  |
-        <a href="https://d20502-d-dms1-blog-38.deno.dev/third-blog-post"> Third</a>  |
-        <a href="https://d20502-d-dms1-blog-38.deno.dev/fourth-blog-post"> Fourth</a>  |
-        <a href="https://d20502-d-dms1-blog-38.deno.dev/fifth-blog-post"> Fifth</a>  |</br>
-          |
-        <a href="https://d20502-d-dms1-blog-38.deno.dev/first-blog-post">  First</a>  |
-        <a href="https://d20502-d-dms1-blog-38.deno.dev/second-blog-post">  Second</a>  |
-        <a href="https://d20502-d-dms1-blog-38.deno.dev/third-blog-post"> Third</a>  |
-        <a href="https://d20502-d-dms1-blog-38.deno.dev/fourth-blog-post"> Fourth</a>  |
-        <a href="https://d20502-d-dms1-blog-38.deno.dev/fifth-blog-post"> Fifth</a>  |
+        <a href="https://d20502-d-dms1-blog-38.deno.dev/first-blog-post">  001</a>  |
+        <a href="https://d20502-d-dms1-blog-38.deno.dev/second-blog-post">  002</a>  |
+        <a href="https://d20502-d-dms1-blog-38.deno.dev/third-blog-post"> 003</a>  |
+        <a href="https://d20502-d-dms1-blog-38.deno.dev/fourth-blog-post"> 004</a>  |
+        <a href="https://d20502-d-dms1-blog-38.deno.dev/fifth-blog-post"> 005</a>  |</br>
+
       </main>
     </>
   );
