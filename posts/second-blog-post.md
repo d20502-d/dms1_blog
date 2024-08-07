@@ -5,7 +5,10 @@ snippet: 30 sec footage
 disable_html_sanitization: true
 allow_math: true
 ---
-#01-02
+<font face="Times New Roman">
+Week 1 Session 2
+<a href="https://d20502-d-dms1-blog-38.deno.dev/first-blog-post" class="button" style="margin-left:35em">Previous Blog</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://d20502-d-dms1-blog-38.deno.dev/third-blog-post" class="button">Next Blog</a>
 # first 30 seconds footage
 
 30 sec footage:
@@ -17,3 +20,5 @@ allow_math: true
 4. Create a YouTube or Vimeo account using your student email, and post a link to this experiment to your blog, along with some brief reflections on that process, including what you were aiming for, and how successful you feel you were.
 
 5. Continue to shoot footage for your project, ready for use in class next week. 
+
+</font>
