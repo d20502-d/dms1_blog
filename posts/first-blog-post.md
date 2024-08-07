@@ -5,6 +5,7 @@ snippet: Scavenger hunt post
 disable_html_sanitization: true
 allow_math: true
 ---
+w1s1
 
 # Scavenger Hunt
 

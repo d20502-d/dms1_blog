@@ -38,6 +38,7 @@ export default function PostPage(props: PageProps<Post>) {
         <a href="https://d20502-d-dms1-blog-38.deno.dev/second-blog-post"> Second</a>  |
         <a href="https://d20502-d-dms1-blog-38.deno.dev/third-blog-post"> Third</a>  |
         <a href="https://d20502-d-dms1-blog-38.deno.dev/fourth-blog-post"> Fourth</a>  |
+        <a href="https://d20502-d-dms1-blog-38.deno.dev/fifth-blog-post"> Fifth</a>  |
       </h2>
 
         <div
@@ -53,6 +54,7 @@ export default function PostPage(props: PageProps<Post>) {
         <a href="https://d20502-d-dms1-blog-38.deno.dev/second-blog-post">  Second</a>  |
         <a href="https://d20502-d-dms1-blog-38.deno.dev/third-blog-post"> Third</a>  |
         <a href="https://d20502-d-dms1-blog-38.deno.dev/fourth-blog-post"> Fourth</a>  |
+        <a href="https://d20502-d-dms1-blog-38.deno.dev/fifth-blog-post"> Fifth</a>  |
       </main>
     </>
   );
