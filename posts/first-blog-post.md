@@ -8,7 +8,7 @@ allow_math: true
 <font face="Times New Roman">
 Week 1 Session 1
 
-<tab{Padding-left:20px;}<a href="https://d20502-d-dms1-blog-38.deno.dev/second-blog-post" class="button">Next Blog</a></tab>
+<tab{Padding-left:20px;} <a href="https://d20502-d-dms1-blog-38.deno.dev/second-blog-post" class="button">Next Blog</a></tab>
 
 
 # Scavenger Hunt
