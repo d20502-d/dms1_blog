@@ -8,15 +8,10 @@ allow_math: true
 #02-01
 # Storyboard
 
+storyboard practice in class:
 ![](240728/sbic.png)
 
-^storyboard practice in class
+Storyboard for my blog:
+![](240728/sb.png)
 
-
-1. Using the template provided on Canvas, or one of your own making, produce a storyboard or storyboards for your Assignment 1 project.
-
-2. You may use screenshots of any footage you've shot so far, or your own illustrations to indicate the composition and movement of shots and visual elements.
-
-3. Upload your storyboard to your blog, along with a discussion of how you will establish and maintain continuity (and/or discontinuity) in your work.
-
-4. Your blog post should also specifically discuss how your approach to editing will contribute to the main theme, concept, action, or emotion you hope to offer the viewer.
+Through editing, I want to convey a sense of relax, quiet, and concentrating which indirectly reflects "me" to the audience. The storyboard was quiet rough but I think it won't be the same as my final product, there might be new stuffs added in order to better convey the things that I want to express.
