@@ -55,7 +55,7 @@ export default function PostPage(props: PageProps<Post>) {
         <a href="https://d20502-d-dms1-blog-38.deno.dev/third-blog-post"> 003</a>  |
         <a href="https://d20502-d-dms1-blog-38.deno.dev/fourth-blog-post"> 004</a>  |
         <a href="https://d20502-d-dms1-blog-38.deno.dev/fifth-blog-post"> 005</a>  |</br>
-
+<br></br>
       </main>
     </>
   );
