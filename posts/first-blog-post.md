@@ -7,6 +7,7 @@ allow_math: true
 ---
 <font face="Times New Roman">
 Week 1 Session 1
+
 # Scavenger Hunt
 
 ![1](240722/1.jpg)
