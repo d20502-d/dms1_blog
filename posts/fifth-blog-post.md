@@ -11,10 +11,7 @@ Week 3 Session 1
 <a href="https://d20502-d-dms1-blog-38.deno.dev/sixth-blog-post" class="button">Next Blog ▶︎</a>
 
 # draft of task 1
-
-1. Based on your storyboard, produce a draft of your video portrait for Assignment 1. It doesn't have to be the finished version, but it should be pretty close.
-
-2. Upload this draft to your YouTube or Vimeo account, post it to your blog, and write a blog post that discusses your process in producing this draft.
+<iframe width="731" height="411" src="https://www.youtube.com/embed/2fIKRXmpN_8" title="DMS1: video experiment" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 3. Prepare a brief written introduction to your work. It should explain your general concept and intentions with the work in a clear, concise, and professional manner. 
 
