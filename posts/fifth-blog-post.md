@@ -20,6 +20,6 @@ Week 3 Session 1
 
 4. Place this introduction into the description of your draft on YouTube or Vimeo. Double-check that the link is ready for sharing in class during the next session.
 <br></br>
-<a href="https://d20502-d-dms1-blog-38.deno.dev/fourth-blog-post" class="button" style="margin-left:23em">◀︎ Previous Blog</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://d20502-d-dms1-blog-38.deno.dev/fourth-blog-post" class="button" style="margin-left:28.46em">◀︎ Previous Blog</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://d20502-d-dms1-blog-38.deno.dev/sixth-blog-post" class="button">Next Blog ▶︎</a>
 </font>
