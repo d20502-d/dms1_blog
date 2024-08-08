@@ -26,6 +26,6 @@ Week 2 Session 2
 
 5. Post your written analysis to your blog, and post an updated version of your storyboard that accounts for the sonic elements of your project.
 <br></br>
-<a href="https://d20502-d-dms1-blog-38.deno.dev/third-blog-post" class="button" style="margin-left:28em">◀︎ Previous Blog</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://d20502-d-dms1-blog-38.deno.dev/third-blog-post" class="button" style="margin-left:28.5em">◀︎ Previous Blog</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://d20502-d-dms1-blog-38.deno.dev/fifth-blog-post" class="button">Next Blog ▶︎</a>
 </font>
