@@ -12,6 +12,8 @@ Week 4 Session 1
 
 # Black square
 
+![](240812/1.png)
+
 1. Watch chapters 1, 2, and 3 of the Illustrator 2024 Essential TrainingLinks to an external site. videos.
 
 2. Complete the Black Square Activity if you didn't manage to do so in class. 
