@@ -7,7 +7,7 @@ allow_math: true
 ---
 <font face="Times New Roman">
 Week 3 Session 1 & 2
-<a href="https://d20502-d-dms1-blog-38.deno.dev/fourth-blog-post" class="button" style="margin-left:20em">◀︎ Previous Blog</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://d20502-d-dms1-blog-38.deno.dev/fourth-blog-post" class="button" style="margin-left:21.5em">◀︎ Previous Blog</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://d20502-d-dms1-blog-38.deno.dev/sixth-blog-post" class="button">Next Blog ▶︎</a>
 
 # draft of task 1
