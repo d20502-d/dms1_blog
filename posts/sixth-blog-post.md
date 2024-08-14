@@ -32,6 +32,22 @@ The prompt that appeal me the most is "Dream" and "Memory".
 - mistery
 - 
 
+memory:
+platform: iphone
+context: diary app UI
+audience: people who would like to record their life with simple words and emotions
+1. new diary entry
+2. save diary
+emotion of the day:
+3. happy
+4. sad
+5. fear
+6. disgust
+7. angry
+8. anxious
+9. boredom
+
+
 6. As part of this process, write a blog post in which you outline a specific platform (i.e: iPhone, Google Chrome, Playstation), context (i.e: items on a printed menu, navigational elements on a website, a videogame UI), and audience (i.e: age, interests, background) for your icon designs.
 
 
