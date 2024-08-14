@@ -22,7 +22,15 @@ Week 4 Session 1
 
 4. Identify which prompt or prompts from the Assignment 2 brief appeal to you the most. 
 
+The prompt that appeal me the most is "Dream" and "Memory".
+
 5. Using a mindmapLinks to an external site. or other brainstorming method, generate as many terms and concepts as you can that relate to that prompt.
+
+- sweet/ nightmare
+- experience
+- explore
+- mistery
+- 
 
 6. As part of this process, write a blog post in which you outline a specific platform (i.e: iPhone, Google Chrome, Playstation), context (i.e: items on a printed menu, navigational elements on a website, a videogame UI), and audience (i.e: age, interests, background) for your icon designs.
 
