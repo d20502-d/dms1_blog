@@ -38,9 +38,6 @@ context: diary app UI
 audience: people who would like to record their life with simple words and emotions
 1. new diary entry
 2. save memory
-
-
-emotion of the day:
 3. happy
 4. sad
 5. fear
@@ -49,6 +46,7 @@ emotion of the day:
 8. anxious
 9. boredom
 
+3-9: emotion of the day
 
 6. As part of this process, write a blog post in which you outline a specific platform (i.e: iPhone, Google Chrome, Playstation), context (i.e: items on a printed menu, navigational elements on a website, a videogame UI), and audience (i.e: age, interests, background) for your icon designs.
 
