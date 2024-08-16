@@ -1,5 +1,5 @@
 ---
-title: DMS Blog 6
+title: DMS Blog 7
 published_at: 2024-08-16
 snippet: title
 disable_html_sanitization: true
