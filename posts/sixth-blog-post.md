@@ -38,6 +38,8 @@ context: diary app UI
 audience: people who would like to record their life with simple words and emotions
 1. new diary entry
 2. save memory
+
+
 emotion of the day:
 3. happy
 4. sad
