@@ -20,6 +20,6 @@ editing experiment:
 
 I cannot create a youtube account with the school email so I use another account to create the yt acc. Through this experiment, I tried to use transition between two different scenes and also I learned how to readjust the size of the video. So far, I think i'm a bit slow cuz i'm spending some time figuring out how do i adjust the size of differnt sequence and i think there's still a lot of things that i haven't tried/ discovered yet.
 <br></br>
-<a href="https://d20502-d-dms1-blog-38.deno.dev/first-blog-post" class="button" style="margin-left:28.46em">◀︎ Previous Blog</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://d20502-d-dms1-blog-38.deno.dev/first-blog-post" class="button" style="margin-left:30.35em">◀︎ Previous Blog</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://d20502-d-dms1-blog-38.deno.dev/third-blog-post" class="button">Next Blog ▶︎</a>
 </font>

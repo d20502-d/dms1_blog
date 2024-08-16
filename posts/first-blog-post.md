@@ -44,7 +44,7 @@ Week 1 Session 1
 ^ A basement-dwelling Black Box, bigger than you might think
 <br></br>
 Week 1 Session 1  
-<a href="https://d20502-d-dms1-blog-38.deno.dev/first-blog-post" class="button" style="margin-left:28.46em">◀︎ Previous Blog</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://d20502-d-dms1-blog-38.deno.dev/first-blog-post" class="button" style="margin-left:30.35em">◀︎ Previous Blog</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://d20502-d-dms1-blog-38.deno.dev/second-blog-post" class="button">Next Blog ▶︎</a>
 </font> 
 
