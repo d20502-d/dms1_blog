@@ -19,6 +19,10 @@ Week 4 Session 2
 3. Upload these sketches to your blog, and evaluate your work with a post that identifies and comments on the thumbnail sketches that you think are the best for each icon. Justify these choices by commenting on how you applied the elements of design in each case.
 
 
+each icon 5 thumbnail sketches
+identify which is the strongest from today's slides
+
+
 <br></br>
 <a href="https://d20502-d-dms1-blog-38.deno.dev/sixth-blog-post" class="button" style="margin-left:30.35em">◀︎ Previous Blog</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://d20502-d-dms1-blog-38.deno.dev/eighth-blog-post" class="button">Next Blog ▶︎</a>
