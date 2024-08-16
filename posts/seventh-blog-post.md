@@ -20,6 +20,6 @@ Week 4 Session 2
 
 
 <br></br>
-<a href="https://d20502-d-dms1-blog-38.deno.dev/sixth-blog-post" class="button" style="margin-left:28.46em">◀︎ Previous Blog</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://d20502-d-dms1-blog-38.deno.dev/sixth-blog-post" class="button" style="margin-left:30.46em">◀︎ Previous Blog</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://d20502-d-dms1-blog-38.deno.dev/eighth-blog-post" class="button">Next Blog ▶︎</a>
 </font>
