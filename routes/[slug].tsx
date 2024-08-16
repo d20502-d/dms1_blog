@@ -35,6 +35,8 @@ export default function PostPage(props: PageProps<Post>) {
     <a class="text-gray-300">&nbsp;|&nbsp;</a> 
     <a href="https://d20502-d-dms1-blog-38.deno.dev/sixth-blog-post" class="text-gray-600">006</a>
     <a class="text-gray-300">&nbsp;|&nbsp;</a> 
+    <a href="https://d20502-d-dms1-blog-38.deno.dev/seventh-blog-post" class="text-gray-600">007</a>
+    <a class="text-gray-300">&nbsp;|&nbsp;</a> 
   </h2>
   <main class="max-w-screen-md px-4 pt-16{padding-top: 2rem;} mx-auto">
     <h1 class="text-5xl font-bold">{post.title}</h1>
@@ -71,6 +73,8 @@ export default function PostPage(props: PageProps<Post>) {
     <a href="https://d20502-d-dms1-blog-38.deno.dev/fifth-blog-post" class="text-gray-600">005</a>
     <a class="text-gray-300">&nbsp;|&nbsp;</a> 
     <a href="https://d20502-d-dms1-blog-38.deno.dev/sixth-blog-post" class="text-gray-600">006</a>
+    <a class="text-gray-300">&nbsp;|&nbsp;</a> 
+    <a href="https://d20502-d-dms1-blog-38.deno.dev/seventh-blog-post" class="text-gray-600">007</a>
     <a class="text-gray-300">&nbsp;|&nbsp;</a> 
   </h2>
   <br></br>
