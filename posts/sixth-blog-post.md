@@ -20,19 +20,17 @@ Week 4 Session 1
 
 3. Document this process in a blog post, including at least some discussion on how you explicitly applied skills learned in the video tutorials, and how you applied elements of design thinking to the task.
 
-4. Identify which prompt or prompts from the Assignment 2 brief appeal to you the most. 
+# Assignment 2
 
 The prompt that appeal me the most is "Dream" and "Memory".
 
-5. Using a mindmapLinks to an external site. or other brainstorming method, generate as many terms and concepts as you can that relate to that prompt.
-
-- sweet/ nightmare
+brainstorming concepts:
 - experience
 - explore
-- mistery
-- 
+- record
+- emotions
 
-memory:
+Memory:
 platform: iphone
 context: diary app UI
 audience: people who would like to record their life with simple words and emotions
@@ -48,7 +46,6 @@ audience: people who would like to record their life with simple words and emoti
 
 3-9: emotion of the day
 
-6. As part of this process, write a blog post in which you outline a specific platform (i.e: iPhone, Google Chrome, Playstation), context (i.e: items on a printed menu, navigational elements on a website, a videogame UI), and audience (i.e: age, interests, background) for your icon designs.
 
 
 <br></br>
