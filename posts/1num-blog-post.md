@@ -12,6 +12,7 @@ Week 0 Session 0
 
 # title
 
+![](240722/1.jpg)
 
 <br></br>
 <a href="https://d20502-d-dms1-blog-38.deno.dev/fifth-blog-post" class="button" style="margin-left:30.35em">◀︎ Previous Blog</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

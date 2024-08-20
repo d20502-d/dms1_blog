@@ -10,7 +10,19 @@ Week 5 Session 1
 <a href="https://d20502-d-dms1-blog-38.deno.dev/seventh-blog-post" class="button" style="margin-left:23em">◀︎ Previous Blog</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://d20502-d-dms1-blog-38.deno.dev/ninth-blog-post" class="button">Next Blog ▶︎</a>
 
-# title
+# pen tool exercises
+
+
+Challenge 1:
+
+![](240819/1.png)
+
+Work through the tutorial stages of The Bézier GameLinks to an external site., then download the image found here, and bring it into Illustrator. Using the points and arrows as guides, trace out each shape using the Pen Tool.
+
+Challenge 2: Download the image found here, bring it into Illustrator, and using the points and arrows as guides, trace out the letters using the Pen Tool, then fill them in with black. 
+
+Challenge 3: Download the rabbit image here, and open it in Illustrator. Using a combination of the Pen and Shape tools, recreate the image and fill it with black and white as appropriate.
+
 
 1. Watch chapters 4, 6, and 8 of the Illustrator 2024 Essential TrainingLinks to an external site. videos.
 
