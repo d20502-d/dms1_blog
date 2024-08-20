@@ -29,6 +29,22 @@ Challenge 3:
 ![](240819/4.png)
 
 
+# tracing activity
+
+geometric forms
+
+![](240819/5.png)
+
+
+When drawing this artwork into geometric forms, many detail parts of the drawing will need to be remove. I found that it is important to choose and keep the most significant part of the original drawing. I made these decisions by trying a few different part that i think is important and compare which of them came out the best.
+
+
+1. Download the Edward Hopper painting examples here Download here. 
+
+2. Choose two of these paintings, and bring them into Illustrator. Using the Pen Tool, trace over one of the paintings using organic forms with the Pen Tool, and trace over the other painting using geometric forms with the Shape Tool.
+
+3. Document and comment on this process on your blog. Part of this task will involve distilling these images down to a group of essential visual qualities, and deciding on which parts of the original paintings you will keep in your tracings, and which you will remove. Discuss specifically how you made these decisions.
+
 # icon flat design
 
 1. Watch chapters 4, 6, and 8 of the Illustrator 2024 Essential TrainingLinks to an external site. videos.
