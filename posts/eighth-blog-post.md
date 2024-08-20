@@ -15,14 +15,21 @@ Week 5 Session 1
 
 Challenge 1:
 
-![](240819/1.png)
+![The Bézier Game](240819/1.png)
+![](240819/2.png)
 
-Work through the tutorial stages of The Bézier GameLinks to an external site., then download the image found here, and bring it into Illustrator. Using the points and arrows as guides, trace out each shape using the Pen Tool.
 
-Challenge 2: Download the image found here, bring it into Illustrator, and using the points and arrows as guides, trace out the letters using the Pen Tool, then fill them in with black. 
+Challenge 2:
 
-Challenge 3: Download the rabbit image here, and open it in Illustrator. Using a combination of the Pen and Shape tools, recreate the image and fill it with black and white as appropriate.
+![](240819/3.png)
 
+
+Challenge 3: 
+
+![](240819/4.png)
+
+
+# icon flat design
 
 1. Watch chapters 4, 6, and 8 of the Illustrator 2024 Essential TrainingLinks to an external site. videos.
 
