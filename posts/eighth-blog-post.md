@@ -31,7 +31,7 @@ Challenge 3:
 
 # tracing activity
 
-geometric forms
+geometric forms:
 
 ![](240819/5.png)
 
