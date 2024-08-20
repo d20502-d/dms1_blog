@@ -38,12 +38,13 @@ geometric forms:
 
 When drawing this artwork into geometric forms, many detail parts of the drawing will need to be remove. I found that it is important to choose and keep the most significant part of the original drawing. I made these decisions by trying a few different part that i think is important and compare which of them came out the best.
 
+organic forms:
 
-1. Download the Edward Hopper painting examples here Download here. 
+![](240819/6.png)
 
-2. Choose two of these paintings, and bring them into Illustrator. Using the Pen Tool, trace over one of the paintings using organic forms with the Pen Tool, and trace over the other painting using geometric forms with the Shape Tool.
 
-3. Document and comment on this process on your blog. Part of this task will involve distilling these images down to a group of essential visual qualities, and deciding on which parts of the original paintings you will keep in your tracings, and which you will remove. Discuss specifically how you made these decisions.
+During the process of drawing this work, i found that organic forms seems to be harder for me because it takes more time for me to get the exact line that i want. For this picture, I remove most of the detail part (for ex. the grass and the detail of the buildings) and keep the light and shadows.
+
 
 # icon flat design
 
