@@ -43,10 +43,10 @@ export default function PostPage(props: PageProps<Post>) {
     <a class="text-gray-300">&nbsp;|&nbsp;</a> 
   </h2>
   <main class="max-w-screen-md px-4 pt-16{padding-top: 2rem;} mx-auto">
-    <a href="https://d20502-d-dms1-blog-38.deno.dev/content>
+    <a href="https://d20502-d-dms1-blog-38.deno.dev/content">
     <h1 class="text-5xl font-bold">{post.title}</h1>
     </a>
-
+   
     <time class="text-gray-500">
       {new Date(post.publishedAt).toLocaleDateString("en-us", {
         year: "numeric",
