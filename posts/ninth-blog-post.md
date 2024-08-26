@@ -25,6 +25,9 @@ Week 5 Session 2
 
 6. Open one or both of the .html files in Visual Studio Code. Experiment with swapping out the existing images in the template with your own prototype icon designs, as well as adjusting their sizing and position. Upload the results to your blog.
 
+
+https://d20502-d-at2-97.deno.dev/
+
 <br></br>
 <a href="https://d20502-d-dms1-blog-38.deno.dev/eighth-blog-post" class="button" style="margin-left:30.35em">◀︎ Previous Blog</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://d20502-d-dms1-blog-38.deno.dev/tenth-blog-post" class="button">Next Blog ▶︎</a>
