@@ -60,6 +60,14 @@ During the process of drawing this work, i found that organic forms seems to be 
 
 6. Download and install Visual Studio CodeLinks to an external site. in preparation for the next class, if you haven't done so already. 
 
+
+![](240819/10.png)
+![](240819/11.png)
+![](240819/12.png)
+![](240819/13.png)
+![](240819/14.png)
+![](240819/15.png)
+
 <br></br>
 <a href="https://d20502-d-dms1-blog-38.deno.dev/seventh-blog-post" class="button" style="margin-left:30.35em">◀︎ Previous Blog</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://d20502-d-dms1-blog-38.deno.dev/ninth-blog-post" class="button">Next Blog ▶︎</a>
