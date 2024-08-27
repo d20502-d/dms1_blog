@@ -7,7 +7,7 @@ allow_math: true
 ---
 <font face="Times New Roman">
 
-# 1 Week 1-3
+# 1. Week 1-3
 
   <h2>
     <a class="text-gray-300">&nbsp;|&nbsp;</a> 
@@ -23,7 +23,7 @@ allow_math: true
     <a class="text-gray-300">&nbsp;|&nbsp;</a> 
   </h2>
 
-# 2 Week 4-6
+# 2. Week 4-6
 
   <h2> 
     <a class="text-gray-300">&nbsp;|&nbsp;</a>
@@ -37,10 +37,10 @@ allow_math: true
     <a class="text-gray-300">&nbsp;|&nbsp;</a> 
   </h2>
 
-# 3 Week 7-9
+# 3. Week 7-9
 
 
-# 4 Week 10-12
+# 4. Week 10-12
 
 
 </font>
