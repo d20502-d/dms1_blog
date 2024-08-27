@@ -7,7 +7,7 @@ allow_math: true
 ---
 <font face="Times New Roman">
 
-# 1
+# 1 Week 1 - Week 3
   <h2>
     <a class="text-gray-300">&nbsp;|&nbsp;</a> 
     <a href="https://d20502-d-dms1-blog-38.deno.dev/first-blog-post" class="text-gray-600">001</a>
@@ -22,7 +22,7 @@ allow_math: true
     <a class="text-gray-300">&nbsp;|&nbsp;</a> 
   </h2>
 
-# 2
+# 2 Week 4 - Week 6
   <h2> 
     <a class="text-gray-300">&nbsp;|&nbsp;</a>
     <a href="https://d20502-d-dms1-blog-38.deno.dev/sixth-blog-post" class="text-gray-600">006</a>
