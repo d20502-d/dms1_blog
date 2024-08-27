@@ -35,6 +35,8 @@ allow_math: true
     <a class="text-gray-300">&nbsp;|&nbsp;</a> 
     <a href="https://d20502-d-dms1-blog-38.deno.dev/ninth-blog-post" class="text-gray-600">009</a>
     <a class="text-gray-300">&nbsp;|&nbsp;</a> 
+    <a href="https://d20502-d-dms1-blog-38.deno.dev/tenth-blog-post" class="text-gray-600">010</a>
+    <a class="text-gray-300">&nbsp;|&nbsp;</a> 
   </h2>
 
 # 3. Week 7-9
