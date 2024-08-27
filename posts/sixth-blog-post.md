@@ -44,7 +44,7 @@ audience: people who would like to record their life with simple words and emoti
 8. anxious
 9. boredom
 
-3-9: emotion of the day
+3-9: emotion of the day 
 
 
 

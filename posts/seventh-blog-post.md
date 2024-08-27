@@ -19,8 +19,14 @@ Week 4 Session 2
 3. Upload these sketches to your blog, and evaluate your work with a post that identifies and comments on the thumbnail sketches that you think are the best for each icon. Justify these choices by commenting on how you applied the elements of design in each case.
 
 
-each icon 5 thumbnail sketches
-identify which is the strongest from today's slides
+practice in class:
+![](7/2.png)
+it was quite hard to draw a same thing in different ways in a short time. I was struggling when i came to the tenth sketch.
+
+
+rough sketch of the 9 icons (5 sketches each):
+![](7/1.jpg)
+brief idea of the 9 icons but some of them may not be used as the final product cuz i may come up with some better ideas as i generate them into flat design.
 
 
 <br></br>
