@@ -27,11 +27,11 @@ brainstorming concepts:
 - record
 - emotions
 
-Dream:
-platform: iphone
-context: diary app UI
-audience: people who would like to record their life with simple words and emotions
-rough ideas:
+Dream: <br>
+platform: iphone <br>
+context: diary app UI <br>
+audience: people who would like to record their life with simple words and emotions <br>
+rough ideas: <br>
 1. new diary entry
 2. save memory
 3. happy
