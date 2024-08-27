@@ -14,11 +14,8 @@ Week 4 Session 1
 
 ![](240812/1.png)
 
-1. Watch chapters 1, 2, and 3 of the Illustrator 2024 Essential TrainingLinks to an external site. videos.
+It was quite easy for the first four design of each label. i spend some time on moving the squares to see if there's any good composition where some came out well and some kinda sucks. However, this is quite interesting and challenging as we are limit to use black squares only.
 
-2. Complete the Black Square Activity if you didn't manage to do so in class. 
-
-3. Document this process in a blog post, including at least some discussion on how you explicitly applied skills learned in the video tutorials, and how you applied elements of design thinking to the task.
 
 # Assignment 2
 
@@ -30,10 +27,11 @@ brainstorming concepts:
 - record
 - emotions
 
-Memory:
+Dream:
 platform: iphone
 context: diary app UI
 audience: people who would like to record their life with simple words and emotions
+rough ideas:
 1. new diary entry
 2. save memory
 3. happy
@@ -43,9 +41,6 @@ audience: people who would like to record their life with simple words and emoti
 7. angry
 8. anxious
 9. boredom
-
-3-9: emotion of the day 
-
 
 
 <br></br>
