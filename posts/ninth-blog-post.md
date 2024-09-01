@@ -12,7 +12,7 @@ Week 5 Session 2
 
 # icon
 
-![](7/3.jpg)
+![](7/3.png)
 
 finally built the website for the icons. it was quite fun to actually see how the icons that i drew work on the website.
 
