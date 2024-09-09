@@ -40,7 +40,10 @@ allow_math: true
   </h2>
 
 # 3. Week 7-9
-
+  <h2> 
+    <a class="text-gray-300">&nbsp;|&nbsp;</a>
+    <a href="https://d20502-d-dms1-blog-38.deno.dev/eleventh-blog-post" class="text-gray-600">011</a>
+  </h2>
 
 # 4. Week 10-12
 
