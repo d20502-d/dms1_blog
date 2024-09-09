@@ -93,7 +93,7 @@ export default function PostPage(props: PageProps<Post>) {
     <a class="text-gray-300">&nbsp;|&nbsp;</a> 
     <a href="https://d20502-d-dms1-blog-38.deno.dev/tenth-blog-post" class="text-gray-600">010</a>
     <a class="text-gray-300">&nbsp;|&nbsp;</a> 
-    <a href="https://d20502-d-dms1-blog-38.deno.dev/tenth-blog-post" class="text-gray-600">010</a>
+    <a href="https://d20502-d-dms1-blog-38.deno.dev/tenth-blog-post" class="text-gray-600">011</a>
     <a class="text-gray-300">&nbsp;|&nbsp;</a> 
   </h2>
   <br></br>
