@@ -43,6 +43,13 @@ allow_math: true
   <h2> 
     <a class="text-gray-300">&nbsp;|&nbsp;</a>
     <a href="https://d20502-d-dms1-blog-38.deno.dev/eleventh-blog-post" class="text-gray-600">011</a>
+    <a class="text-gray-300">&nbsp;|&nbsp;</a>
+    <a href="https://d20502-d-dms1-blog-38.deno.dev/twelfth-blog-post" class="text-gray-600">012</a>
+    <a class="text-gray-300">&nbsp;|&nbsp;</a>
+    <a href="https://d20502-d-dms1-blog-38.deno.dev/thirteen-blog-post" class="text-gray-600">013</a>
+    <a class="text-gray-300">&nbsp;|&nbsp;</a>
+    <a href="https://d20502-d-dms1-blog-38.deno.dev/fourteen-blog-post" class="text-gray-600">014</a>
+    <a class="text-gray-300">&nbsp;|&nbsp;</a>
   </h2>
 
 # 4. Week 10-12
