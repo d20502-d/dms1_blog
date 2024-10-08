@@ -19,6 +19,8 @@ It spends me a lot of time finding the models that i wanted and i didn't found a
 
 ![](8/2.png)
 
+![](8/3.png)
+
 <br></br>
 <a href="https://d20502-d-dms1-blog-38.deno.dev/twelfth-blog-post" class="button" style="margin-left:30.35em">◀︎ Previous Blog</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://d20502-d-dms1-blog-38.deno.dev/fourteen-blog-post" class="button">Next Blog ▶︎</a>
