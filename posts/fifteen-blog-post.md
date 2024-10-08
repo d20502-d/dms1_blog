@@ -20,6 +20,13 @@ Week 9 Session 1
 
 4. Prepare a test upload on Unity Play, and a survey, if you haven't done so already, ready for testing in the next session. Note that if you are having trouble with 3D sound on Unity Play, you can use the alternate 3D Sound Template package Download 3D Sound Template package. Simply drag in the '3d_sound_template" object, slot the First Person Player into the script, and add an audio clip to the AudioSource.
 
+
+<iframe width="731" height="411" src="https://www.youtube.com/embed/Fg3ZHmoYvX8" title="DMS1: video experiment" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+https://youtu.be/embed/Fg3ZHmoYvX8
+
+<iframe width="731" height="411" src="https://youtu.be/embed/Fg3ZHmoYvX8" title="DMS1: video experiment" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <br></br>
 <a href="https://d20502-d-dms1-blog-38.deno.dev/fourteen-blog-post" class="button" style="margin-left:30.35em">◀︎ Previous Blog</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://d20502-d-dms1-blog-38.deno.dev/sixteen-blog-post" class="button">Next Blog ▶︎</a>
