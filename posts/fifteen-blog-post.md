@@ -21,7 +21,7 @@ I gave my friend 4 minutes to explore my environment and the review that i got i
 I was unable to upload my environment on unity play and i found that some of my objects and sound also the most important part (the partical system) will disappear in build but everything works in editor (I'm not sure is it because i just upgraded my computer to Sequoia but unity build only supports Sequoia==) so i just let my friend to play on my laptop.
 
 
-#final playthrough
+# final playthrough
 
 <iframe width="731" height="411" src="https://www.youtube.com/embed/nc0nvb5tAPk" title="DMS1: video experiment" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
