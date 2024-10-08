@@ -10,15 +10,28 @@ Week 8 Session 2
 <a href="https://d20502-d-dms1-blog-38.deno.dev/thirteen-blog-post" class="button" style="margin-left:23em">◀︎ Previous Blog</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://d20502-d-dms1-blog-38.deno.dev/fifteen-blog-post" class="button">Next Blog ▶︎</a>
 
-# title
+# unity process
 
-1. Watch chapter 9 of the Unity 3D 2023 Essential TrainingLinks to an external site. videos.
+![](14/1.png)
 
-2. If you haven't already, gather the sound assets that you'll need for your environment, including music, sound effects, and so on. Remember to pay attention to licensing requirements, and credit appropriately!
 
-3. Implement these sound assets into your project, doing so in layers: i.e: background, looping ambience first, then localised, 3D sounds to aid in navigation and storytelling.
+![](14/2.png)
 
-4. Continue to rigorously document this process on your blog, and to iterate through your project. 
+
+![](14/3.png)
+
+
+![](14/4.png)
+
+
+![](14/5.png)
+
+
+![](14/6.png)
+
+At this point of this assignment, i think i encountered many problems and i had to make many changes and concession. Actually it was quite frustrated being unable to create exactly what i wanted but the process of creating this 3d environmednt is still very intersting and engaging. It may be because what i wanted to create is kihd of complex or maybe because i didn't do 3d stuff before, this project is really the one that makes me learn the most from it ><!
+
+
 
 <br></br>
 <a href="https://d20502-d-dms1-blog-38.deno.dev/thirteen-blog-post" class="button" style="margin-left:30.35em">◀︎ Previous Blog</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
