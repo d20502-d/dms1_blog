@@ -38,6 +38,21 @@ sunrise: the end is also a new start, sunrises as the night ends <br>
 sea of clouds: the future; using the clouds to show that it is unpredictable and full of unknowns <br>
 
 
+top down map:
+![](8/00.png)
+
+
+first area: the prairie and the forest
+![](8/11.png)
+
+
+second area: cave
+![](8/22.png)
+
+
+third area: mountain top
+![](8/33.png)
+
 # unity practice
 ![](12/11.png)
 <br>
