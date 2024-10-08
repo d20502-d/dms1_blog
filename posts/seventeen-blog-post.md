@@ -12,7 +12,7 @@ Week 10 Session 2
 
 # reflection
 
-1. Based on your answers to the self reflection questions from the last session, begin to formalise the written components of your folio webpage into a series of paragraphs that will frame your work and progress over the semester in a clear, accessible, and engaging manner. 
+1. Based on your answers to the self reflection questions from the last session, begin to formalise the written components of your folio webpage into a series of paragraphs that will frame your work and progress over the semester in a clear, accessible, and engaging manner.  
 
 2. Gather the quotes, images, and any other material from your blog that you identified as useful during the last homework task, and use them to practice implementing content on Figma. Don't worry too much about the layout or organisation for now.
 
