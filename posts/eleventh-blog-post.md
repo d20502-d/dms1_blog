@@ -28,22 +28,22 @@ sea of clouds: the future; using the clouds to show that it is unpredictable and
 
 
 top down map:
-![](8/00.png)
+![](8/00.PNG)
 
 
 first area: the prairie and the forest
-![](8/11.png)
+![](8/11.PNG)
 
 
 second area: cave
-![](8/22.png)
+![](8/22.PNG)
 
 
 third area: mountain top
-![](8/33.png)
+![](8/33.PNG)
 
 # unity practice
-![](12/11.png)
+![](12/11.PNG)
 <br>
 It's the first time for me to use unity. It is very interesting to create 3D things out by myself. I've almost finish all of the planets although there's only one in the image i upload= = i only got that screenshot. My computer battery drops sooooo fast when using unity and i didn't notice until the tragedy happens as my laptop just shut down suddenly and the progress that i've done weren't save so everything was gone^^
 
