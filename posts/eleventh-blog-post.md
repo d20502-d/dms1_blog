@@ -43,7 +43,7 @@ third area: mountain top
 ![](8/33.PNG)
 
 # unity practice
-![](12/11.PNG)
+![](12/11.png)
 <br>
 It's the first time for me to use unity. It is very interesting to create 3D things out by myself. I've almost finish all of the planets although there's only one in the image i upload= = i only got that screenshot. My computer battery drops sooooo fast when using unity and i didn't notice until the tragedy happens as my laptop just shut down suddenly and the progress that i've done weren't save so everything was gone^^
 
