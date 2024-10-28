@@ -57,6 +57,12 @@ export default function PostPage(props: PageProps<Post>) {
     <a class="text-gray-300">&nbsp;|&nbsp;</a> 
     <a href="https://d20502-d-dms1-blog-38.deno.dev/seventeen-blog-post" class="text-gray-600">017</a>
     <a class="text-gray-300">&nbsp;|&nbsp;</a> 
+    <a href="https://d20502-d-dms1-blog-38.deno.dev/eighteen-blog-post" class="text-gray-600">018</a>
+    <a class="text-gray-300">&nbsp;|&nbsp;</a> 
+    <a href="https://d20502-d-dms1-blog-38.deno.dev/nineteen-blog-post" class="text-gray-600">019</a>
+    <a class="text-gray-300">&nbsp;|&nbsp;</a> 
+    <a href="https://d20502-d-dms1-blog-38.deno.dev/twentieth-blog-post" class="text-gray-600">020</a>
+    <a class="text-gray-300">&nbsp;|&nbsp;</a> 
   </h2>
   <main class="max-w-screen-md px-4 pt-16{padding-top: 2rem;} mx-auto">
     <a href="https://d20502-d-dms1-blog-38.deno.dev/content">
@@ -118,6 +124,12 @@ export default function PostPage(props: PageProps<Post>) {
     <a href="https://d20502-d-dms1-blog-38.deno.dev/sixteen-blog-post" class="text-gray-600">016</a>
     <a class="text-gray-300">&nbsp;|&nbsp;</a> 
     <a href="https://d20502-d-dms1-blog-38.deno.dev/seventeen-blog-post" class="text-gray-600">017</a>
+    <a class="text-gray-300">&nbsp;|&nbsp;</a> 
+    <a href="https://d20502-d-dms1-blog-38.deno.dev/eighteen-blog-post" class="text-gray-600">018</a>
+    <a class="text-gray-300">&nbsp;|&nbsp;</a> 
+    <a href="https://d20502-d-dms1-blog-38.deno.dev/nineteen-blog-post" class="text-gray-600">019</a>
+    <a class="text-gray-300">&nbsp;|&nbsp;</a> 
+    <a href="https://d20502-d-dms1-blog-38.deno.dev/twentieth-blog-post" class="text-gray-600">020</a>
     <a class="text-gray-300">&nbsp;|&nbsp;</a> 
   </h2>
   <br></br>

@@ -61,5 +61,10 @@ allow_math: true
     <a class="text-gray-300">&nbsp;|&nbsp;</a>
     <a href="https://d20502-d-dms1-blog-38.deno.dev/seventeen-blog-post" class="text-gray-600">017</a>
     <a class="text-gray-300">&nbsp;|&nbsp;</a>
-
+    <a href="https://d20502-d-dms1-blog-38.deno.dev/eighteen-blog-post" class="text-gray-600">018</a>
+    <a class="text-gray-300">&nbsp;|&nbsp;</a>
+    <a href="https://d20502-d-dms1-blog-38.deno.dev/nineteen-blog-post" class="text-gray-600">019</a>
+    <a class="text-gray-300">&nbsp;|&nbsp;</a>
+    <a href="https://d20502-d-dms1-blog-38.deno.dev/twentieth-blog-post" class="text-gray-600">020</a>
+    <a class="text-gray-300">&nbsp;|&nbsp;</a>
 </font>
