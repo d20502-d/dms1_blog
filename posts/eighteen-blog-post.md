@@ -16,6 +16,7 @@ Week 11 Session 1
 2. Post these iterations to your blog, and sort through them to arrive at your final wireframe design.
 
 3. Discuss how you arrived at this decision through iteration and experimentation. 
+
 <br></br>
 <a href="https://d20502-d-dms1-blog-38.deno.dev/seventeen-blog-post" class="button" style="margin-left:30.35em">◀︎ Previous Blog</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://d20502-d-dms1-blog-38.deno.dev/nineteen-blog-post" class="button">Next Blog ▶︎</a>
