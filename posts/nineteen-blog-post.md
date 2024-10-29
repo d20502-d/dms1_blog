@@ -10,16 +10,17 @@ Week 11 Session 2
 <a href="https://d20502-d-dms1-blog-38.deno.dev/eighteen-blog-post" class="button" style="margin-left:23em">◀︎ Previous Blog</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://d20502-d-dms1-blog-38.deno.dev/twentieth-blog-post" class="button">Next Blog ▶︎</a>
 
-# title
+# figma
 
-1. Consider which elements of your webpage design could be made more accessible, using tools like WebAIM's Contrast CheckerLinks to an external site., or Figma's Color Contrast plugin. Some other interesting/good tips for considering how you can increase design thinking around web accessibility in general can be found hereLinks to an external site.. 
+grid based layout example:
+![](6/5.png)
 
-2. Revisit the wireframes that you generated after the last session, and consider how they could be improved with a grid-based layout in a blog post. A useful article on the benefits of such a layout can be found hereLinks to an external site.. 
 
-3. Continue to implement the content of the website according to your wireframes, and document this process as you go on your blog. Make sure you maintain good design practice in the arrangement of your text and media elements, as outlined in this document Download this document. 
+portfolio:
+![](6/4.png)
 
-4. In the same post, compare the current iteration of your webpage with the version that you originally envisioned, and reflect on any differences between them. What's changed, and what's remained the same? Have you had to make any concessions, or have you managed to implement everything that you wanted to?
-
+after comparing the grid based layout, I made adjustment to my webpage by moving all the things more centered and aligned with the columns. This adjustment make the webpage looks more tidy, organized, and easy to access. 
+However, I cannot embed the video the way that I wanted and the only way to embed the video will keep the white frame there and it's unable to change the size or the color of it. This made me to change the color theme of my webpage to black and white so that the embeded video doesn't look akward= =
 
 
 <br></br>
