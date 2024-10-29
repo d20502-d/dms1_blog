@@ -14,12 +14,10 @@ Week 12 Session 1 & 2
 
 desktop:
 
-
 https://www.figma.com/proto/mtY6seXEc3rX0t2mSmDArc/Untitled?node-id=0-1&t=JeWRB3FkimtK6NJA-1
 
 
 iPhone:
-
 
 https://www.figma.com/proto/mtY6seXEc3rX0t2mSmDArc/Untitled?node-id=131-565&t=JeWRB3FkimtK6NJA-1
 
